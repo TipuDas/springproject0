@@ -1,0 +1,169 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:#2B2B2B;
+}
+
+.container{
+    padding: 20px 0 0 20px;
+    display: block;
+    margin: 0px;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.text1{
+    margin: 0em;
+    padding-left: 4.5vw;
+}
+
+img.flower1 {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    float: right;
+    padding-right: 0em;
+}
+
+h1{
+    font-size: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h3{
+    font-size: 3vw;
+    letter-spacing: 1.5vw;
+    color: #F13F79;
+}
+
+hr.hr2{
+    height: 2px;
+    background-color: white;
+    border: 50px solid #2B2B2B;
+    border-left: 0;
+    border-right: 0;
+}
+
+
+
+.text2{
+    margin: 0em;
+}
+
+img.boy1 {
+    clear: both;
+    margin: 0;
+    padding-left: 9vw;
+    float: left;
+    padding-right: 0em
+}
+
+h5{
+    color: white;
+    clear: left;
+    font-size: 2.5vw;
+    letter-spacing: 2px;
+    margin: 0px;
+}
+
+h6{
+    color: white;
+    clear: left;
+    font-size: 2vw;
+    letter-spacing: 2px;
+}
+
+
+.description1{
+    float: right;
+    width: 38%;
+    height: 23.5%;
+    margin: 0px;
+    padding-right: 3vw;
+}
+
+hr.hr4{
+    height: 2px;
+    background-color: white;
+    border: 50px solid #2B2B2B;
+    border-left: 0;
+    border-right: 0;
+}
+
+ 
+
+h5.text3-h5 {
+    color: white;
+    clear: left;
+    font-size: 2.5vw;
+    letter-spacing: 2px;
+    margin: 0px;
+}
+
+h6.text3-h6 {
+    color: white;
+    clear: left;
+    font-size: 2vw;
+    letter-spacing: 2px;
+}
+
+.description2{
+    float: left;
+    width: 38%;
+    height: 23.5%;
+    margin: 0px;
+    padding-left: 9vw;
+}
+
+  
+
+.description3{
+    float: right;
+    width: 38%;
+    height: 23.5%;
+    margin: 0px;
+    padding-left: 3vw;
+    line-height: 0.9;
+}
+
+h3.description3-h3 {
+    font-size: 8vw; 
+    letter-spacing: 0.5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    border: 0;
+    color: black;
+}
+
+h1.description3-h1 {
+    font-size: 20vw;
+    border: 0;
+    margin: 0;
+    color: #F13F79;
+    line-height: 0.8;
+}
+
+p.big {
+    font-size: 8vw;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+
+
+
+
+
+
+
+
+
+
+
+
